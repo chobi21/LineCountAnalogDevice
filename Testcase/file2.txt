@@ -1,0 +1,5 @@
+Therefore, it is important to systematically explore the effects of noise in classification performance
+classification is a supervised learning approach 
+Class noise is known as labeling errors when an instance is incorrectly labeled
+There are several causes for class noise 
+Contradictory examples: Some examples appear more than once with different class labels
