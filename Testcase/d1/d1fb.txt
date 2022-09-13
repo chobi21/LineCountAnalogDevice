@@ -1,0 +1,6 @@
+We followed the random noise model for class noise injection.
+In the literature, there is a lack of work to analyze the impact of noise on different types of classifiers
+Therefore, we select five classifiers for our experiments.
+The rationale for choosing the classifiers based on their characteristics are three-fold:
+A study on either class noise or attribute noise alone cannot provide enough information about classifier behaviors against noise
+The experiments carried out in this paper are based on 13 datasets

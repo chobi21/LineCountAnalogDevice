@@ -1,0 +1,9 @@
+Attribute noise refers to corruption in the value of one or more attributes
+There are three types of attribute noise
+Erroneous attribute: The attribute with a wrong value
+Missing attribute values: The value of an attribute is unknown. Generally, it is represented as a “?” sign.
+Don’t care values: The value of the attribute does not affect the rest of the values in the example
+We generate the attribute noise in the training data set using Gaussian noise
+Therefore, the values that the noise can take on are Gaussian distributed
+
+
