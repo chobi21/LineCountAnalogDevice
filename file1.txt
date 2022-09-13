@@ -1,0 +1,10 @@
+Classification is one of the fundamental tasks in machine learning
+
+The quality of data is important in constructing any machine learning model with good prediction performance
+Real-world data often suffer from noise
+errors, irregularities, and corruptions in a dataset
+we have no control over the quality of data used in classification tasks.
+The presence of noise in a dataset poses three major negative consequences
+a decrease in the classification accuracy
+an increase in the complexity of the induced classifier
+an increase in the training time
